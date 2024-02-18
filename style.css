@@ -1,0 +1,18 @@
+#header
+{
+    background-color:  #34568B;
+    padding-left: 4 rem;
+}
+header{
+    font-family: Sigmar;
+}
+.rounded-circle{
+    border:1px solid;
+    border-radius:50%;
+    width: 500px;
+    height: 500px;
+}
+.quote
+{
+    font-family:Bruno Ace SC;
+}
